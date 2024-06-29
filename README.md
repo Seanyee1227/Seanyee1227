@@ -1,6 +1,5 @@
 ## HyeanMin's GitHub
 
-<a href="https://www.instagram.com/sean_mn_08/" target="_blank"><img src="https://img.shields.io/badge/sean_mn-FFFFFF?style=flat&logo=instagram&logoColor=E4405F"/></a>
 <!--
 **Seanyee1227/Seanyee1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
