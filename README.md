@@ -1,4 +1,4 @@
-## HyeanMin's GitHub
+## HyeonMin's GitHub
 
 <!--
 **Seanyee1227/Seanyee1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
